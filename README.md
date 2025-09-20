@@ -20,8 +20,6 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-
-
 #Forsikring
 
 forsikring_el = 5000 # [kr/år]
